@@ -28,6 +28,7 @@ A smart AI-powered ticket management system that automatically categorizes, prio
    git clone <your-repo-url>
    cd ai-ticket-assistant
    npm install
+   ```
 
 
 ## .env Setup
