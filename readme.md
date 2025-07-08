@@ -4,20 +4,6 @@ A smart AI-powered ticket management system that automatically categorizes, prio
 
 ---
 
-## 📖 Table of Contents
-
-1. [Features](#features)
-2. [Tech Stack](#tech-stack)
-3. [Setup & Installation](#setup--installation)
-4. [Configuration](#configuration)
-5. [Running the Application](#running-the-application)
-6. [API Endpoints](#api-endpoints)
-7. [Testing](#testing)
-8. [Troubleshooting](#troubleshooting)
-9. [Credits](#credits)
-
----
-
 ## 🚀 Features
 
 - 🤖 **AI-Generated Insights**
