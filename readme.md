@@ -1,4 +1,4 @@
-# 🧠 AI Ticket Assistant - by Vedant Singh Jadon
+# 🧠 AI Ticket Assistant 
 
 A smart AI-powered ticket management system that automatically categorizes, prioritizes, and assigns support tickets to the right moderators based on skills.
 
